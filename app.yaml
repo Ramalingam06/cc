@@ -1,0 +1,8 @@
+Version : 1
+runtime : Python 2.7
+api_version : 1
+threadsafe : true
+handlers :
+url : /.*
+script : hello.app
+
